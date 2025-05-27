@@ -1,6 +1,6 @@
 db:
-  url: jdbc:postgresql://localhost:"puerto"/"nombrededb"
-  username: "nombredetuuserpostgres"
-  password: "tucontrasena"
+  url: jdbc:postgresql://localhost:5436/rakingcaleb
+  username: rakingcalebex
+  password: r4k1ngc4leb
   maximum-pool-size: 5
   connection-timeout: 20000
