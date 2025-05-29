@@ -1,4 +1,4 @@
-db:
+em:
   url: jdbc:postgresql://localhost:5436/fichaCaleb
   username: "queso"
   password: "queso123"

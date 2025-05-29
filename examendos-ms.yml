@@ -1,4 +1,4 @@
-db:
+da:
   url: jdbc:postgresql://localhost:5436/rakingcaleb
   username: rakingcalebex
   password: r4k1ngc4leb
